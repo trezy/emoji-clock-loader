@@ -1,0 +1,30 @@
+{
+  "name": "emoji-clock-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "emoji-clock-loader.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "load-grunt-config": "^0.19.2",
+    "time-grunt": "^1.4.0",
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trezy/emoji-clock-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trezy/emoji-clock-loader/issues"
+  },
+  "homepage": "https://github.com/trezy/emoji-clock-loader#readme"
+}
